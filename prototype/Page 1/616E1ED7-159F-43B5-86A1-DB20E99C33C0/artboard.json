@@ -1,6 +1,13 @@
 {
-  "_class": "page",
-  "do_objectID": "F24F5032-15F9-4D17-B654-D2C88A53E46B",
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "616E1ED7-159F-43B5-86A1-DB20E99C33C0",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,18 +20,20 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 1024,
+    "width": 1024,
+    "x": -14,
+    "y": 1011
   },
-  "hasClickThrough": true,
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -33,32 +42,37 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "187B9C81-0114-4601-993C-7F31BAD191AD"
-    },
-    {
-      "class": "artboard",
-      "id": "616E1ED7-159F-43B5-86A1-DB20E99C33C0"
-    },
-    {
-      "class": "artboard",
-      "id": "5528D2B1-D754-45AC-B577-924AAA84CEA4"
-    },
-    {
-      "class": "artboard",
-      "id": "C4A625AF-5C40-4AE7-9473-A4D1FBB7A7AA"
-    },
-    {
-      "class": "artboard",
-      "id": "4E15D90A-8946-49B0-858A-CF563795DC21"
+      "class": "shapeGroup",
+      "id": "B732B4C5-136E-419F-8A71-C26E9F3A91B5"
     },
     {
       "class": "shapeGroup",
-      "id": "4B532B6C-6A5C-4EED-BA83-BC80F74CF3EA"
+      "id": "173B5B49-D20F-485A-9A22-5B5FF63D749D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3E3FADD9-F270-4585-B515-E7657F16A3CB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C5F97C93-7F08-4565-A46F-B9CBEA78F2EB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8BC0B971-F6E9-46C5-9041-D823FDC1DCCF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "656D7703-4A27-4F06-BFFA-D277BC7AA25F"
+    },
+    {
+      "class": "text",
+      "id": "E9947F06-5CF5-4F52-A88D-3F8265A7A4B1"
     }
   ],
-  "name": "Page 1",
+  "name": "Desktop",
   "nameIsFixed": false,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

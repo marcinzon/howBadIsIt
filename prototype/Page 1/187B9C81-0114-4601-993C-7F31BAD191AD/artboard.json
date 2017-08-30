@@ -39,7 +39,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -52,6 +52,10 @@
     {
       "class": "text",
       "id": "B761DB7A-3693-4EDA-8BCE-BDC57A163BEB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "08E764EF-98DF-4BCD-BFA0-690E595322C8"
     }
   ],
   "name": "Desktop HD",
