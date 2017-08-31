@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "do_objectID": "C4A625AF-5C40-4AE7-9473-A4D1FBB7A7AA",
+  "do_objectID": "FAB1F47B-EFB9-4E7F-8100-963E6C486433",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -20,13 +20,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1024,
+    "height": 150,
     "width": 1024,
-    "x": 3743,
-    "y": -13
+    "x": 1526,
+    "y": 2295
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,16 +42,31 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "text",
-      "id": "DE0D3F26-70E0-4BE2-B47F-8D3F6A7C2255"
+      "class": "shapeGroup",
+      "id": "419FC94B-CA89-4FAB-B74A-AADF877FCA36"
     },
     {
       "class": "text",
-      "id": "B5B5D2E8-5A48-4B80-ACF8-A41F57EAA8B6"
+      "id": "497C65E4-1E81-4B39-8683-727A586A02DC"
     }
   ],
-  "name": "Desktop Copy 3",
-  "nameIsFixed": false,
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 32,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "name": "Footer",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

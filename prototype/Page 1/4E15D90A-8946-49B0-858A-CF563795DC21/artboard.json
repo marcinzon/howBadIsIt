@@ -54,8 +54,8 @@
       "id": "95F0920B-7B06-4621-AF73-5E650949E4CD"
     }
   ],
-  "name": "Desktop Copy 2",
-  "nameIsFixed": false,
+  "name": "SURVEY",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
