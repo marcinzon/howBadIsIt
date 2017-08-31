@@ -20,13 +20,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1024,
+    "height": 4037,
     "width": 1024,
     "x": 2665,
     "y": -1324
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,18 +42,45 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "text",
-      "id": "664F71E8-3E97-4231-A449-F14CD182E527"
+      "class": "group",
+      "id": "E4F62F60-9126-4D3A-AB8B-FF5D9F1DFEA9"
+    },
+    {
+      "class": "group",
+      "id": "C43A7A25-B0BA-4592-B2A7-439F80BA20E3"
+    },
+    {
+      "class": "group",
+      "id": "361AC401-5AAE-40AB-B843-BF67DFA64E62"
+    },
+    {
+      "class": "group",
+      "id": "EDD93D72-F3DB-477A-92BF-269814A80B26"
+    },
+    {
+      "class": "group",
+      "id": "F9390BCF-C7AA-4849-B718-0D606E49D828"
     },
     {
       "class": "text",
-      "id": "F52CC64B-A45B-4907-ABDF-D9B9A0B24294"
-    },
-    {
-      "class": "text",
-      "id": "95F0920B-7B06-4621-AF73-5E650949E4CD"
+      "id": "68AEBD7D-EEF5-441B-8018-5C09E8EDA9CF"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 32,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
   "name": "SURVEY",
   "nameIsFixed": true,
   "resizesContent": false,

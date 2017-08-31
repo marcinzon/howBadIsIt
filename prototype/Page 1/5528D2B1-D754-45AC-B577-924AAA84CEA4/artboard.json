@@ -104,6 +104,10 @@
     {
       "class": "shapeGroup",
       "id": "D775E752-41DA-46FD-B51A-8528CD50481C"
+    },
+    {
+      "class": "text",
+      "id": "24E46F1C-7F15-42BC-92B0-25EADA993A48"
     }
   ],
   "layout": {
@@ -121,7 +125,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 960
   },
-  "name": "Landing Page",
+  "name": "Main Page",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "56519AE9-7D89-4829-95C6-E1B7E7A2CBAC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 930,
+    "x": 0,
+    "y": 260
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E2424CDE-7DD3-466A-953E-9464F8B1283F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1F52FDEF-130A-4D38-9A7E-2F384D5ED77F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7E98F575-888A-4C17-B9C6-BE8F63475001"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9E8A86F7-AB5A-4E9D-A5D9-2C295A46E843"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0DA0CBC3-029A-43A4-91A3-DFF7B9636AD4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "96E17614-89A8-4C87-9709-21AFD067AEC2"
+    }
+  ],
+  "name": "Slider Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -53,12 +53,44 @@
       "id": "4E15D90A-8946-49B0-858A-CF563795DC21"
     },
     {
-      "class": "shapeGroup",
-      "id": "4B532B6C-6A5C-4EED-BA83-BC80F74CF3EA"
-    },
-    {
       "class": "artboard",
       "id": "FAB1F47B-EFB9-4E7F-8100-963E6C486433"
+    },
+    {
+      "class": "text",
+      "id": "5ACB312B-EE63-4630-A735-927C1D8E2F9B"
+    },
+    {
+      "class": "text",
+      "id": "63F6BD09-3946-40C0-8362-C522EBBB8E54"
+    },
+    {
+      "class": "text",
+      "id": "07875DE2-B821-40E3-AAC7-75B9ABE0A1EC"
+    },
+    {
+      "class": "text",
+      "id": "89454692-131E-449F-B17F-545DCBA574FE"
+    },
+    {
+      "class": "text",
+      "id": "A95D7C3B-F5E8-4FDD-BB78-F19885ADA99A"
+    },
+    {
+      "class": "text",
+      "id": "7DD8F987-AA06-4142-8218-2857FD7D918E"
+    },
+    {
+      "class": "text",
+      "id": "82E8732E-770F-4CD0-9DB6-B1255F25DDD6"
+    },
+    {
+      "class": "text",
+      "id": "FE1960F9-03EF-434C-85A6-DDF3563B51D1"
+    },
+    {
+      "class": "text",
+      "id": "549FE426-F392-4165-AE86-79CF83F1CE21"
     }
   ],
   "name": "Page 1",
