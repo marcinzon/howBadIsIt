@@ -61,5 +61,10 @@
       "verticalAlignment": 0
     }
   },
-  "textBehaviour": 1
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.markhorgan.sketch.clickThruPrototype": {
+      "artboardLink": "RESULTS"
+    }
+  }
 }
