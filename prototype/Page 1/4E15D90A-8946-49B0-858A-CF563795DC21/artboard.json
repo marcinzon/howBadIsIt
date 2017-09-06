@@ -43,7 +43,7 @@
   "layers": [
     {
       "class": "group",
-      "id": "E4F62F60-9126-4D3A-AB8B-FF5D9F1DFEA9"
+      "id": "4E41BF24-8B78-4DFF-83CD-5BFAD64CB851"
     },
     {
       "class": "group",
@@ -64,6 +64,10 @@
     {
       "class": "text",
       "id": "68AEBD7D-EEF5-441B-8018-5C09E8EDA9CF"
+    },
+    {
+      "class": "text",
+      "id": "4B99346C-2EA8-4F41-A05D-FC1D45C6EDD4"
     }
   ],
   "layout": {

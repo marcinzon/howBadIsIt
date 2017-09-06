@@ -78,5 +78,10 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
+  "userInfo": {
+    "com.markhorgan.sketch.clickThruPrototype": {
+      "artboardLink": "RESULTS"
+    }
+  },
   "windingRule": 1
 }

@@ -32,8 +32,8 @@
       "id": "ED59A39C-BEA8-4316-B417-3497FB5C5205"
     }
   ],
-  "name": "Rectangle 6",
-  "nameIsFixed": false,
+  "name": "linkto:SURVEY",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

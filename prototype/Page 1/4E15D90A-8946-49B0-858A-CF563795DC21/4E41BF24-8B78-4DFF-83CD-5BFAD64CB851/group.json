@@ -1,6 +1,6 @@
 {
   "_class": "group",
-  "do_objectID": "E4F62F60-9126-4D3A-AB8B-FF5D9F1DFEA9",
+  "do_objectID": "4E41BF24-8B78-4DFF-83CD-5BFAD64CB851",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1057,
-    "width": 2396,
+    "height": 475,
+    "width": 930,
     "x": 44,
-    "y": -486
+    "y": 96
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -28,10 +28,6 @@
     {
       "class": "text",
       "id": "E9257131-564F-41C4-AD85-CEE13695F1CB"
-    },
-    {
-      "class": "text",
-      "id": "65AF10A7-1283-4DD7-821A-EF86D4C2CE75"
     },
     {
       "class": "text",
